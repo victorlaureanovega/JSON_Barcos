@@ -1,0 +1,8 @@
+[
+    {"modelo": "Barco 1", "cuandoSalio": "2020", "estaHundido": false},
+    {"modelo": "Barco 2", "cuandoSalio": "2024", "estaHundido": false},
+    {"modelo": "Barco 3", "cuandoSalio": "1900", "estaHundido": true},
+    {"modelo": "Barco 4", "cuandoSalio": "1998", "estaHundido": false},
+    {"modelo": "Barco 5", "cuandoSalio": "2009", "estaHundido": false},
+    {"modelo": "Barco 6", "cuandoSalio": "1647", "estaHundido": true}
+]
