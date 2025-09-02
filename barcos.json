@@ -1,8 +1,17 @@
 [
+    {"modelo": "Titanic", "cuandoSalio": "1912", "estaHundido": true},
+    {"modelo": "Queen Mary 2", "cuandoSalio": "2004", "estaHundido": false},
+    {"modelo": "USS Enterprise (CV-6)", "cuandoSalio": "1936", "estaHundido": true},
+    {"modelo": "Santa María", "cuandoSalio": "1492", "estaHundido": true},
+    {"modelo": "HMS Victory", "cuandoSalio": "1765", "estaHundido": false},
+    {"modelo": "USS Constitution", "cuandoSalio": "1797", "estaHundido": false},
+    {"modelo": "Costa Concordia", "cuandoSalio": "2006", "estaHundido": true},
+    {"modelo": "Bismarck", "cuandoSalio": "1939", "estaHundido": true},
+    {"modelo": "Queen Elizabeth", "cuandoSalio": "1940", "estaHundido": true},
+    {"modelo": "Ever Given", "cuandoSalio": "2018", "estaHundido": false},
     {"modelo": "Barco 1", "cuandoSalio": "2020", "estaHundido": false},
     {"modelo": "Barco 2", "cuandoSalio": "2024", "estaHundido": false},
     {"modelo": "Barco 3", "cuandoSalio": "1900", "estaHundido": true},
     {"modelo": "Barco 4", "cuandoSalio": "1998", "estaHundido": false},
-    {"modelo": "Barco 5", "cuandoSalio": "2009", "estaHundido": false},
-    {"modelo": "Barco 6", "cuandoSalio": "1647", "estaHundido": true}
+    {"modelo": "Barco 5", "cuandoSalio": "2009", "estaHundido": false}
 ]
